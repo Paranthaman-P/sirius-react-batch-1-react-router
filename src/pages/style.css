@@ -4,3 +4,9 @@ a{
 a.active {
     color: green;
 }
+.display {
+    display: block;
+}
+.hidden {
+    display: none;
+}

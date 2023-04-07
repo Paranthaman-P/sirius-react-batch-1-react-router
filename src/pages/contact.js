@@ -1,9 +1,9 @@
-import Menu from "./menus";
+// import Menu from "./menus";
 
 function Contact() {
     return (
         <>
-            <Menu />
+            {/* <Menu /> */}
             <h1>Contact Content Goes here...</h1>
         </>
     )

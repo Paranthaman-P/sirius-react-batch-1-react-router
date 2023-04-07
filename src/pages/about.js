@@ -1,9 +1,9 @@
-import Menu from "./menus";
+// import Menu from "./menus";
 
 function About() {
     return (
         <>
-            <Menu />
+            {/* <Menu /> */}
             <h1>About Content Goes here...</h1>
         </>
     )
